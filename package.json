@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
     "axios": "^0.19.0",
     "date-fns": "^1.30.1",
     "eslint-plugin-vue": "^9.1.1",
