@@ -1,0 +1,14 @@
+export const PRODUCT_PUBLISH = "publishProduct";
+export const PRODUCT_DELETE = "deleteProduct";
+export const PRODUCT_EDIT = "editProduct";
+export const PRODUCT_EDIT_ADD_INGREDIENT = "addIngredientToProduct";
+export const PRODUCT_EDIT_REMOVE_INGREDIENT = "removeIngredientFromProduct";
+export const PRODUCT_RESET_STATE = "resetProductState";
+export const CHECK_AUTH = "checkAuth";
+export const FETCH_PRODUCT = "fetchProduct";
+export const FETCH_PRODUCTS = "fetchProducts";
+export const FETCH_INGREDIENTS = "fetchIngredients";
+export const LOGIN = "login";
+export const LOGOUT = "logout";
+export const REGISTER = "register";
+export const UPDATE_USER = "updateUser";
